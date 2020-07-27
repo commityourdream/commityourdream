@@ -13,7 +13,7 @@
 - :writing_hand: Writing blogs on  **[Medium](https://medium.com/@manjhi0107)** and quotes on **[Facebook](https://www.facebook.com/importShayari/)**
 - :e-mail: Ask me about anything ; **[myselfakm95@gmail.com](myselfakm95@gmail.com)**
 
-(https://github-readme-stats.vercel.app/api?username=commityourdream&show_icons=true&hide_border=true)
+![Amit's github stats](https://github-readme-stats.vercel.app/api?username=commityourdream&show_icons=true&hide_border=true)
 
 ### Languages and Tools :computer:
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/commityourdream)](https://github.com/commityourdream) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/commityourdream)](https://github.com/commityourdream) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/commityourdream)](https://github.com/commityourdream) 

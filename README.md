@@ -5,18 +5,18 @@
 
 :smiley: Software Engineer at **[Talentica Software](https://www.talentica.com/)** 
 
-👨‍🎓 B.Tech In Computer Science & Engineering from the **[National Institute Of Technology Rourkela](https://nitrkl.ac.in/)** 
+👨‍🎓 B.Tech In Computer Science & Engineering from **[National Institute Of Technology Rourkela](https://nitrkl.ac.in/)** 
 
 ### About me :eyes:
 
 - :dart: Python Developer | Machine learning | WebScraping |Data Science 
-- :writing_hand: Writing blogs on  **[Medium](https://medium.com/@manjhi0107)** and wiriting quotes on **[Facebook](https://www.facebook.com/importShayari/)**
+- :writing_hand: Writing blogs on  **[Medium](https://medium.com/@manjhi0107)** and quotes on **[Facebook](https://www.facebook.com/importShayari/)**
 - :e-mail: Ask me about anything ; **[myselfakm95@gmail.com](myselfakm95@gmail.com)**
 
 ![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=commityourdream&show_icons=true&hide_border=true)
 
 ### Languages and Tools :computer:
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/commityourdream)](https://github.com/commityourdream) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/commityourdream)](https://github.com/commityourdream) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/commityourdream)](https://github.com/commityourdream) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/commityourdream)](https://github.com/commityourdream) [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/commityourdream)](https://github.com/commityourdream) 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/commityourdream)](https://github.com/commityourdream) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/commityourdream)](https://github.com/commityourdream) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/commityourdream)](https://github.com/commityourdream) [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/commityourdream)](https://github.com/commityourdream) 
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/commityourdream)](https://github.com/commityourdream) [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&link=https://github.com/commityourdream)](https://github.com/commityourdream) [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/commityourdream)](https://github.com/commityourdream) [![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/commityourdream)](https://github.com/commityourdream) 
 

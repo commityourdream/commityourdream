@@ -23,7 +23,7 @@
 
 ### Reach out to me 👓
 
-|  <a href="https://github.com/commityourdream"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
+|  <a href="https://github.com/commityourdream"><img src="https://icon-library.com/images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Amit Kumar Manjhi](https://github.com/commityourdream)**                                                                                |
 |<a href="https://twitter.com/akm_nitrkl"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/commityourdream"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/people/Amit-Kumar-Manjhi/100004458345542"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/amit-kumar-manjhi-611a24104/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |

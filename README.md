@@ -10,7 +10,7 @@
 ### About me :eyes:
 
 - :dart: Python Developer | Machine learning | WebScraping | Data Science 
-- :writing_hand: Writing blogs on  **[Medium](https://medium.com/@manjhi0107)** and quotes on **[Facebook](https://www.facebook.com/importShayari/)**
+- :writing_hand: Writing blogs on  **[Medium](https://medium.com/@amit-kumar-manjhi)** and quotes on **[Facebook](https://www.facebook.com/importShayari/)**
 - :e-mail: Ask me about anything ; **[myselfakm95@gmail.com](myselfakm95@gmail.com)**
 
 ![Amit's github stats](https://github-readme-stats.vercel.app/api?username=commityourdream&show_icons=true&hide_border=true)
